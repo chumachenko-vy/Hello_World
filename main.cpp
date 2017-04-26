@@ -22,8 +22,8 @@ using namespace std;
 int main(int argc, char** argv) 
 {
     
-    cout << "Hello, world!!" << endl;
-    cout << "Hello, Jenkins!!" << endl;
+    cout << "Hello, world!" << endl;
+    cout << "Hello, Jenkins!" << endl;
 
     return 0;
 }
