@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 {
     
     cout << "Hello, world!" << endl;
-    cout << "Hello, Jenkins!" << endl;
+    //cout << "Hello, Jenkins!" << endl;
     //cout << "Hello, Hell" << endl;
 
     return 0;
