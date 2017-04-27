@@ -11,8 +11,8 @@
  * Created on April 26, 2017, 10:30 AM
  */
 
-//#include <cstdlib>
-//#include <iostream> 
+#include <cstdlib>
+#include <iostream> 
 
 using namespace std;
 
@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 {
     
     cout << "Hello, world!" << endl;
-    //cout << "Hello, Jenkins!" << endl;
+    cout << "Hello, Jenkins!" << endl;
     //cout << "Hello, Hell" << endl;
 
     return 0;
